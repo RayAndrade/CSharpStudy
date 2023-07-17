@@ -1,6 +1,0 @@
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
-/home/ray/TheRayCode/CSharpStudy/DerekBanas/C-Sharp-Course-main/C# Code 1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
