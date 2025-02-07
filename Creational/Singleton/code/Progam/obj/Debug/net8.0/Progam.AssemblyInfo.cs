@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Progam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89dbf1adec2a926600731d1c10216789148379f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99b717849a23d1fd68f40e2d0c3dddd61da5b0d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Progam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Progam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
