@@ -25,3 +25,9 @@ Check out TheRayCode. ORG and . COM
 leave a comment, Subscribe and Like
 
 Be good TheRayCode is AWESOME
+
+Introduction 0:00
+Creational Patterns 0:35
+Structual Patterns 1:12
+Behavioral Patterns 2:06
+Close 3:21
