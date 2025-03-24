@@ -1,6 +1,6 @@
 namespace TheRayCode;
 
-public class ConcreteProductA2: IAbstractProductB
+public class ConcreteProductA2: IAbstractProductA
 {
     public void Use()
     {

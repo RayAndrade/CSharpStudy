@@ -4,6 +4,6 @@ public class ConcreteProductA1: IAbstractProductA
 {
     public void Use()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("Using ConcreteProductA1");
     }
 }
