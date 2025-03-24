@@ -1,6 +1,3 @@
-Let X = C++, Y=Absract Factory ,B= Creational , Z = Absract Factory
-
-
 Below is a **C#** implementation of the **Abstract Factory** design pattern, a **Creational** pattern, following the **Gang of Four (GoF)** structure. Each class is placed in its own file and created in an order that avoids dependency issues.
 
 ---
