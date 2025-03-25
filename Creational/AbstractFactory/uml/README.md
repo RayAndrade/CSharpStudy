@@ -6,4 +6,4 @@ Abstract Product: declares an interface for a type of product object
 
 Concrete Product defines a product object to be created by the corresponding concrete factory
 
-lient: uses only interfaces declared by Abstract Factory and Abstract Product classes
+client: uses only interfaces declared by Abstract Factory and Abstract Product classes
