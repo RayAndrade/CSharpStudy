@@ -1,0 +1,15 @@
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/bin/Debug/net10.0/Show
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/bin/Debug/net10.0/Show.deps.json
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/bin/Debug/net10.0/Show.runtimeconfig.json
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/bin/Debug/net10.0/Show.dll
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/bin/Debug/net10.0/Show.pdb
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.GeneratedMSBuildEditorConfig.editorconfig
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.AssemblyInfoInputs.cache
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.AssemblyInfo.cs
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.csproj.CoreCompileInputs.cache
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.sourcelink.json
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.dll
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/refint/Show.dll
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.pdb
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/Show.genruntimeconfig.cache
+/home/ray/0_projects/CSharpStudy/Behavioral/ChainOfResponsibility/code/Show/Show/obj/Debug/net10.0/ref/Show.dll
